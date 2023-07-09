@@ -4839,7 +4839,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6013299433597389442}
   m_Layer: 0
-  m_Name: MyOwnEffectLightningFirework
+  m_Name: MyEffectLightningFirework
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
